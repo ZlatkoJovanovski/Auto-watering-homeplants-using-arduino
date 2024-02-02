@@ -28,15 +28,15 @@ void loop() {
   Serial.print("Moisture Level 1: ");
   Serial.println(moistureLevel1);
   Serial.print("Moisture Percentage 1 = ");
-  Serial.print(moisture_percentage1);
+  Serial.println(moisture_percentage1);
   Serial.print("Moisture Level 2: ");
   Serial.println(moistureLevel2);
   Serial.print("Moisture Percentage 2 = ");
-  Serial.print(moisture_percentage2);
+  Serial.println(moisture_percentage2);
   Serial.print("Moisture Level 3: ");
   Serial.println(moistureLevel3);
   Serial.print("Moisture Percentage 3 = ");
-  Serial.print(moisture_percentage3);
+  Serial.println(moisture_percentage3);
 
   if (moisture_percentage1 <= 10) {
     activatePump(pumpRelayPin1);

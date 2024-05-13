@@ -24,3 +24,5 @@ PUMP
 	big black wire into NO
 BATTERY POWER SUPPLY
 	big black wire into COM
+ 
+![viber_image_2024-04-12_21-14-43-807](https://github.com/ZlatkoJovanovski/Auto-watering-homeplants-using-arduino/assets/102656383/c3c9496e-9af4-4141-89c4-e28323fbab99)
